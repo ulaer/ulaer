@@ -61,7 +61,7 @@
     <text class="stack" x="96" y="182">C#  ·  .NET  ·  WPF  ·  GEMINI API  ·  XUNIT</text>
 
     <!-- Lingora'dan bir çeviri anı -->
-    <text class="label" x="1104" y="70" text-anchor="end">NOW BUILDING · LINGORA</text>
+    <text class="label" x="1104" y="70" text-anchor="end">ŞU AN · LINGORA</text>
     <text class="tr" x="96" y="246" clip-path="url(#typeTr)">Yarın sabah erkenden yola çıkmamız gerekiyor.</text>
     <text class="en" x="96" y="280" clip-path="url(#typeEn)">→ We need to set off early tomorrow morning.</text>
   </g>
