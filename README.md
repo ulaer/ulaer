@@ -34,9 +34,10 @@ Right now I'm working on tools that help people learn languages by doing, not me
       <ul>
         <li>🧠 Scoring, corrections and explanations by Gemini</li>
         <li>📖 A personal dictionary that fills itself from your mistakes</li>
+        <li>📅 Daily journal with AI lesson notes, saved as PDF</li>
         <li>🎯 Daily goal, streaks and progress tracking</li>
         <li>🔐 API key encrypted with Windows DPAPI</li>
-        <li>✅ 170 automated tests, including the WPF UI</li>
+        <li>✅ 189 automated tests, including the WPF UI</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/.NET_8-512BD4?logo=dotnet&logoColor=white" alt=".NET 8" />
@@ -114,9 +115,10 @@ sağlayan araçlar üzerinde çalışıyorum.
       <ul>
         <li>🧠 Gemini ile puanlama, düzeltme ve Türkçe açıklama</li>
         <li>📖 Hatalardan otomatik dolan kişisel sözlük</li>
+        <li>📅 Günlük ve AI ders notu, PDF olarak kaydetme</li>
         <li>🎯 Günlük hedef, seri ve ilerleme takibi</li>
         <li>🔐 DPAPI ile şifreli API anahtarı</li>
-        <li>✅ 170 otomatik test (WPF arayüzü dahil)</li>
+        <li>✅ 189 otomatik test (WPF arayüzü dahil)</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/.NET_8-512BD4?logo=dotnet&logoColor=white" alt=".NET 8" />
